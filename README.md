@@ -5,8 +5,6 @@
 
 <br clear="both">
 
-
-<br>
 <h2 align="left">About me</h2>
 
 <p align="left">
@@ -24,7 +22,6 @@ My goal is to build a solid career in the field and keep advancing into new chal
   </a>
 </div>
 
-<br>
 
 <h2 align="left">My Stacks</h2>
 
@@ -50,7 +47,6 @@ My goal is to build a solid career in the field and keep advancing into new chal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" />
 </div>
 
-<br>
 
 <h2 align="left">Currently Learning</h2>
 
@@ -58,7 +54,6 @@ My goal is to build a solid career in the field and keep advancing into new chal
 - SQL Databases  
 - Data Structures  
 
-<br>
 
 <h2 align="left">Status & Languages</h2>
 

@@ -1,6 +1,6 @@
 <img align="right" height="150" src="https://images.steamusercontent.com/ugc/947341074451638914/C055A32887D32BEFAB7B2B4530BAB17531113555/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
-<h2 align="left">Welcome to my GitHub!</h2>
+<h3 align="left">Welcome to my GitHub!</h3>
 <p align="left">My name is Isa Clara and I'm an Systems Analysis and Development student.</p>
 
 <br clear="both">

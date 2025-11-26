@@ -1,87 +1,90 @@
-<img align="right" height="150" src="https://images.steamusercontent.com/ugc/947341074451638914/C055A32887D32BEFAB7B2B4530BAB17531113555/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=B0E0E6&text=Isa%20Clara&animation=twinkling&textColor=E0F7FA&textBg=false&section=header&reversal=true&desc=Evolving%20Every%20Day&descColor=B0E0E6&descAlign=52&descAlignY=61&fontAlignY=40&fontAlign=52" width="100%" />
 
-<h3 align="left">Welcome to my GitHub page!</h3>
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&duration=3500&pause=800&color=7EB6C1&center=true&vCenter=true&width=450&lines=Learning+is+growth.;Code+is+art.;Dream+big+and+execute." alt="Typing SVG" />
 
-###
+  <br/>
 
-<p align="left">My name is Isa Clara and I'm an Systems Analysis and Development student fro Brazil, Pernambuco.</p>
+  <!-- GIF centralizado -->
+  <p align="center">
+    <img src="https://i.pinimg.com/originals/fc/bc/88/fcbc88726e4c8e6ed14be73e8d94446a.gif" height="300" style="border-radius:12px;" alt="Angels Egg GIF"/>
+  </p>
 
-###
+  <!-- About Me -->
+  <h2 style="color:#7EB6C1;">About Me</h2>
+  <p align="left" style="color:#D0D0D0;">
+    My name is Isa Clara, and I'm a Systems Analysis and Development student from Brazil, Pernambuco.<br/><br/>
+    I entered the technology field out of affinity and today I study Systems Analysis and Development, deepening my knowledge in development and system fundamentals. I seek to evolve consistently, creating projects that reinforce my practice and broaden my vision as a developer. My goal is to build a solid career in the field and keep advancing into new challenges.
+  </p>
 
-<br clear="both">
+  <!-- Contatos -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/isa-clara-siqueira-bb0b48361" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1C2B3A&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    </a>
+    <a href="mailto:isaclaraoliveira@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1C2B3A&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    </a>
+  </p>
 
-<h2 align="left">About Me</h2>
+  <!-- Informações pessoais -->
+  <table>
+    <tr>
+      <td style="color:#D0D0D0;">Location</td>
+      <td style="color:#D0D0D0;">Focus Area</td>
+      <td style="color:#D0D0D0;">Learning</td>
+    </tr>
+    <tr>
+      <td style="color:#D0D0D0;">Brazil (UTC -3)</td>
+      <td style="color:#D0D0D0;">Software Development & Systems Analysis</td>
+      <td style="color:#D0D0D0;">Java, SQL Databases</td>
+    </tr>
+  </table>
 
-###
+  <!-- Stacks -->
+  <h2 style="color:#7EB6C1;">My Stacks</h2>
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
+    <img width="10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40"/>
+  </p>
 
-<p align="left">I entered the technology field out of affinity and today I study Systems Analysis and Development, deepening my knowledge in development and system fundamentals. I seek to evolve consistently, creating projects that reinforce my practice and broaden my vision as a developer. My goal is to build a solid career in the field and keep advancing into new challenges.</p>
+  <!-- Learning -->
+  <h2 style="color:#7EB6C1;">Currently Learning</h2>
+  <p align="center" style="color:#D0D0D0;">
+    - Java<br>
+    - SQL Databases<br>
+    - Data Structures
+  </p>
 
-###
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaClara&theme=nord_dark" height="150" alt="Profile Details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaClara&theme=nord_dark" height="150" alt="Repos per Language"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaClara&theme=nord_dark" height="150" alt="Most Commit Language"/>
+  </p>
 
-<div align="left">
-  <a href="www.linkedin.com/in/isa-clara-siqueira-bb0b48361" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="isaclaraoliveira@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
+
+<br/>
 </div>
+<p align="center">
+   <img src="https://i0.wp.com/gkids.com/wp-content/uploads/2024/06/ANEGG_TT_JM_Light_A01.png?fit=1024%2C191&ssl=1" width="100%" style="border-radius:12px;"/>
+</p>
 
-###
-
-<h2 align="left">My Stacks</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
-
-<h2 align="left">Currently Learning</h2>
-
-###
-
-<p align="left">- Java<br>- SQL Databases<br>- Data Structures</p>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaClara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsaClara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+<img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0E0E6&animation=twinkling&textBg=false&section=footer&reversal=false&fontSize=70&fontColor=E0F7FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  

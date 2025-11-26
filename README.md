@@ -75,7 +75,6 @@
 
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaClara&theme=nord_dark" height="150" alt="Profile Details"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaClara&theme=nord_dark" height="150" alt="Repos per Language"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaClara&theme=nord_dark" height="150" alt="Most Commit Language"/>
   </p>
 

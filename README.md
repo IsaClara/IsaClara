@@ -11,7 +11,7 @@
   <h2 style="color:#7EB6C1;">About Me</h2>
   <p align="center" style="color:#D0D0D0;">
   <p align="center">
-    <img src="https://i.pinimg.com/originals/fc/bc/88/fcbc88726e4c8e6ed14be73e8d94446a.gif" height="200" style="border-radius:12px;" alt="Angels Egg GIF"/>
+    <img src="https://i.pinimg.com/originals/fc/bc/88/fcbc88726e4c8e6ed14be73e8d94446a.gif" height="180" style="border-radius:12px;" alt="Angels Egg GIF"/>
   </p>
     My name is Isa Clara, and I'm a Systems Analysis and Development student from Brazil, Pernambuco.<br/><br/>
     I entered the technology field out of affinity and today I study Systems Analysis and Development, deepening my knowledge in development and system fundamentals. I seek to evolve consistently, creating projects that reinforce my practice and broaden my vision as a developer. My goal is to build a solid career in the field and keep advancing into new challenges.

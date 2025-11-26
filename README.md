@@ -5,8 +5,6 @@
 
 
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&duration=3500&pause=800&color=7EB6C1&center=true&vCenter=true&width=450&lines=Learning+is+growth.;Code+is+art.;Dream+big+and+execute." alt="Typing SVG" />
 
   <br/>
 
@@ -84,8 +82,9 @@
 <br>
 <br>
 </div>
+
 <p align="center">
-   <img src="https://i0.wp.com/gkids.com/wp-content/uploads/2024/06/ANEGG_TT_JM_Light_A01.png?fit=1024%2C191&ssl=1" width="90%" style="border-radius:12px;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&duration=3500&pause=800&color=E0F7FA&center=true&vCenter=true&width=450&lines=Learning+is+growth.;Code+is+art.;Dream+big+and+execute." alt="Typing SVG" />
 </p>
 
 

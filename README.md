@@ -43,6 +43,7 @@
     </tr>
   </table>
 
+
   <!-- Stacks -->
   <h2 style="color:#7EB6C1;">My Stacks</h2>
   <p align="center">
@@ -65,6 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40"/>
   </p>
 
+
   <!-- Learning -->
   <h2 style="color:#7EB6C1;">Currently Learning</h2>
   <p align="center" style="color:#D0D0D0;">
@@ -72,18 +74,21 @@
     - SQL Databases<br>
     - Data Structures
   </p>
-
-  <p align="center">
+      <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaClara&theme=nord_dark" height="150" alt="Profile Details"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaClara&theme=nord_dark" height="150" alt="Most Commit Language"/>
   </p>
 
 
-<br/>
+
+<br>
+<br>
+<br>
 </div>
 <p align="center">
    <img src="https://i0.wp.com/gkids.com/wp-content/uploads/2024/06/ANEGG_TT_JM_Light_A01.png?fit=1024%2C191&ssl=1" width="100%" style="border-radius:12px;"/>
 </p>
+
 
 <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0E0E6&animation=twinkling&textBg=false&section=footer&reversal=false&fontSize=70&fontColor=E0F7FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
   

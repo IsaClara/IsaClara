@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=B0E0E6&text=Isa%20Clara&animation=twinkling&textColor=E0F7FA&textBg=false&section=header&reversal=true&desc=ADS%20student%20%7C%20Systems%20and%20Software&descColor=B0E0E6&descAlign=52&descAlignY=61&fontAlignY=40&fontAlign=52" width="100%" />
 
-  <br>
   <!-- About Me -->
   <h2 style="color:#7EB6C1;">About Me</h2>
   <p align="center" style="color:#D0D0D0;">
@@ -13,7 +12,6 @@
     I entered the technology field out of affinity and today I study Systems Analysis and Development, deepening my knowledge in development and system fundamentals. I seek to evolve consistently, creating projects that reinforce my practice and broaden my vision as a developer. My goal is to build a solid career in the field and keep advancing into new challenges.
   </p>
 
-<br>
   <!-- Contatos -->
   <p align="center">
     <a href="https://www.linkedin.com/in/isa-clara-siqueira-bb0b48361" target="_blank">
@@ -37,8 +35,6 @@
     </tr>
   </table>
 
-
-<br>
  <h2 align="center" style="color:#E4E4F0;">My Stacks</h2>
  <p align="center">
  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=1C2B3A&logoColor=FFFFFF&style=for-the-badge" height="25" alt="C" />
@@ -56,10 +52,6 @@
  <img src="https://img.shields.io/static/v1?message=SQL&logo=mysql&label=&color=1C2B3A&logoColor=FFFFFF&style=for-the-badge" height="25" alt="SQL" />
  </p>
 
-
-
-
-<br>
   <!-- Learning -->
   <h2 style="color:#7EB6C1;">Currently Learning</h2>
   <p align="center" style="color:#D0D0D0;">
@@ -67,19 +59,16 @@
     - SQL Databases<br>
     - Data Structures
   </p>
-  <br>
-      <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaClara&theme=nord_dark" height="150" alt="Profile Details"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaClara&theme=nord_dark" height="150" alt="Most Commit Language"/>
+  <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaClara&theme=nord_dark" height="150" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaClara&theme=nord_dark" height="150" alt="Most Commit Language"/>
   </p>
 
 </div>
-
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&duration=3500&pause=800&color=E0F7FA&center=true&vCenter=true&width=450&lines=Learning+is+growth.;Code+is+art.;Dream+big+and+execute." alt="Typing SVG" />
 </p>
-
-<br>
 <img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0E0E6&animation=twinkling&textBg=false&section=footer&reversal=false&fontSize=70&fontColor=E0F7FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=transparent" />
 
   

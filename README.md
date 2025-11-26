@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=B0E0E6&text=Isa%20Clara&animation=twinkling&textColor=E0F7FA&textBg=false&section=header&reversal=true&desc=Evolving%20Every%20Day&descColor=B0E0E6&descAlign=52&descAlignY=61&fontAlignY=40&fontAlign=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=B0E0E6&text=Isa%20Clara&animation=twinkling&textColor=E0F7FA&textBg=false&section=header&reversal=true&desc=ADS%20student%20%7C%20Systems%20and%20Software&descColor=B0E0E6&descAlign=52&descAlignY=61&fontAlignY=40&fontAlign=52" width="100%" />
+
+
+
 
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&duration=3500&pause=800&color=7EB6C1&center=true&vCenter=true&width=450&lines=Learning+is+growth.;Code+is+art.;Dream+big+and+execute." alt="Typing SVG" />

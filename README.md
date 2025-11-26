@@ -9,7 +9,7 @@
 
   <!-- GIF centralizado -->
   <p align="center">
-    <img src="https://i.pinimg.com/originals/fc/bc/88/fcbc88726e4c8e6ed14be73e8d94446a.gif" height="300" style="border-radius:12px;" alt="Angels Egg GIF"/>
+    <img src="https://i.pinimg.com/originals/fc/bc/88/fcbc88726e4c8e6ed14be73e8d94446a.gif" height="200" style="border-radius:12px;" alt="Angels Egg GIF"/>
   </p>
 
   <!-- About Me -->
@@ -44,27 +44,24 @@
   </table>
 
 
-  <!-- Stacks -->
-  <h2 style="color:#7EB6C1;">My Stacks</h2>
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
-    <img width="10"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40"/>
-  </p>
+  <h2 align="left" style="color:#E4E4F0;">My Stacks</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-B0E0E6?style=for-the-badge&logo=c&logoColor=#E4E4F0&labelColor=B0E0E6" alt="C" height="25"/>
+<img src="https://img.shields.io/badge/Java-B0E0E6?style=for-the-badge&logo=openjdk&logoColor=#E4E4F0&labelColor=B0E0E6" alt="Java" height="25"/>
+<img src="https://img.shields.io/badge/Python-B0E0E6?style=for-the-badge&logo=python&logoColor=#E4E4F0&labelColor=B0E0E6" alt="Python" height="25"/>
+<img src="https://img.shields.io/badge/HTML5-B0E0E6?style=for-the-badge&logo=html5&logoColor=#E4E4F0&labelColor=B0E0E6" alt="HTML5" height="25"/>
+<img src="https://img.shields.io/badge/CSS3-B0E0E6?style=for-the-badge&logo=css3&logoColor=#E4E4F0&labelColor=B0E0E6" alt="CSS3" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-B0E0E6?style=for-the-badge&logo=javascript&logoColor=#E4E4F0&labelColor=B0E0E6" alt="JavaScript" height="25"/>
+<br/>
+<img src="https://img.shields.io/badge/VSCode-B0E0E6?style=for-the-badge&logo=visual-studio-code&logoColor=#E4E4F0&labelColor=B0E0E6" alt="VSCode" height="25"/>
+<img src="https://img.shields.io/badge/IntelliJ-B0E0E6?style=for-the-badge&logo=intellij-idea&logoColor=#E4E4F0&labelColor=B0E0E6" alt="IntelliJ" height="25"/>
+<img src="https://img.shields.io/badge/Figma-B0E0E6?style=for-the-badge&logo=figma&logoColor=#E4E4F0&labelColor=B0E0E6" alt="Figma" height="25"/>
+<img src="https://img.shields.io/badge/Trello-B0E0E6?style=for-the-badge&logo=trello&logoColor=#E4E4F0&labelColor=B0E0E6" alt="Trello" height="25"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL-B0E0E6?style=for-the-badge&logo=mysql&logoColor=#E4E4F0&labelColor=B0E0E6" alt="SQL" height="25"/>
+</p>
+
 
 
   <!-- Learning -->
@@ -86,9 +83,10 @@
 <br>
 </div>
 <p align="center">
-   <img src="https://i0.wp.com/gkids.com/wp-content/uploads/2024/06/ANEGG_TT_JM_Light_A01.png?fit=1024%2C191&ssl=1" width="100%" style="border-radius:12px;"/>
+   <img src="https://i0.wp.com/gkids.com/wp-content/uploads/2024/06/ANEGG_TT_JM_Light_A01.png?fit=1024%2C191&ssl=1" width="90%" style="border-radius:12px;"/>
 </p>
 
 
-<img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0E0E6&animation=twinkling&textBg=false&section=footer&reversal=false&fontSize=70&fontColor=E0F7FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+<img width="100%" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0E0E6&animation=twinkling&textBg=false&section=footer&reversal=false&fontSize=70&fontColor=E0F7FA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=transparent" />
+
   
